@@ -74,5 +74,11 @@ public class CompetitionsTests {
         assertEquals(2, competition.getStanding());
     }
 
+    /*@Test
+    public void rankingTest(){
+        competition.printRanks();
+        assertTrue(true, String.valueOf(true));
+    }*/
+
 
 }
